@@ -10,8 +10,8 @@ $GLOBALS['TL_DCA']['tl_screencast_archive'] = array
 	'config' => array
 	(
 		'dataContainer'               => 'Table',
-		'ctable'                      => array(),
-		// 'switchToEdit'                => true,
+		'ctable'                      => array('tl_screencast'),
+		'switchToEdit'                => true,
 		'enableVersioning'            => true,
 	),
 
