@@ -18,3 +18,9 @@ $GLOBALS['FE_MOD']['screencast'] = array(
     'screencast_list' => 'ModuleScreencastList'
 );
 
+/**
+ * Content elements
+ */
+$GLOBALS['TL_CTE']['screencast'] = array(
+    'screencast_viewer' => 'ContentScreencastViewer'
+);

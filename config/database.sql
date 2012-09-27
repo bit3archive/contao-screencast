@@ -51,3 +51,11 @@ CREATE TABLE `tl_screencast` (
 CREATE TABLE `tl_module` (
   `screencast_archives` int(10) unsigned NOT NULL default '0',
 ) ENGINE=MyISAM DEFAULT CHARSET=utf8;
+
+--
+-- Table `tl_content`
+--
+
+CREATE TABLE `tl_content` (
+  `screencast` int(10) unsigned NOT NULL default '0',
+) ENGINE=MyISAM DEFAULT CHARSET=utf8;
