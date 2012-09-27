@@ -43,3 +43,11 @@ CREATE TABLE `tl_screencast` (
   KEY `alias` (`alias`),
   KEY `pid` (`pid`)
 ) ENGINE=MyISAM DEFAULT CHARSET=utf8;
+
+--
+-- Table `tl_module`
+--
+
+CREATE TABLE `tl_module` (
+  `screencast_archives` int(10) unsigned NOT NULL default '0',
+) ENGINE=MyISAM DEFAULT CHARSET=utf8;

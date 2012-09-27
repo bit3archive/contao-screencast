@@ -5,7 +5,7 @@
  */
 $GLOBALS['TL_LANG']['tl_screencast_archive']['title']     = array('Titel', 'Bitte geben Sie den Archiv-Titel ein.');
 $GLOBALS['TL_LANG']['tl_screencast_archive']['alias']     = array('Alias', 'Der Archivalias ist eine eindeutige Referenz, die anstelle der numerischen Archiv-ID aufgerufen werden kann.');
-$GLOBALS['TL_LANG']['tl_screencast_archive']['published'] = array('Artikel veröffentlichen', 'Das Archiv auf der Webseite anzeigen.');
+$GLOBALS['TL_LANG']['tl_screencast_archive']['published'] = array('Archiv veröffentlichen', 'Das Archiv auf der Webseite anzeigen.');
 $GLOBALS['TL_LANG']['tl_screencast_archive']['start']     = array('Anzeigen ab', 'Das Archiv erst ab diesem Tag auf der Webseite anzeigen.');
 $GLOBALS['TL_LANG']['tl_screencast_archive']['stop']      = array('Anzeigen bis', 'Das Archiv nur bis zu diesem Tag auf der Webseite anzeigen.');
 
